@@ -1,0 +1,22 @@
+listenPort: 3000
+prometheusPort: 30000
+redisTTLdays: 14
+redisErrorTTLmins: 30
+redisHost: localhost:6379
+redisDB: 2
+httpGetTimeoutsec: 5
+maxRedirect: 10
+maxImgURL: 2000
+descMaxWords: 200
+descMaxChars: 32000
+providerNamesFile: scripts/providers.json
+multiTags:
+  - article:tag
+keywordsTags:
+  - keywords
+  - news_keywords
+  - sailthru.tags
+  - article:tag
+blacklist:
+  - socialclique.com.br
+  - squidos.com

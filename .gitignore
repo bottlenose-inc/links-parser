@@ -1,0 +1,5 @@
+go
+.*
+links-benchmark/results/*
+*.a
+links-parser

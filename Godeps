@@ -1,0 +1,11 @@
+#Godeps allows gpm to manage go package versions
+#https://github.com/pote/gpm --> forked to github.com/bottlenose-inc/gpm
+
+github.com/bottlenose-inc/go-common-tools/...
+github.com/bottlenose-inc/rapidjson    v1.2.1
+github.com/gorilla/mux                 26a6070f849969ba72b72256e9f14cf519751690 # last commit available on 2/17/16 and no releases on project
+github.com/asaskevich/govalidator
+golang.org/x/net/html
+golang.org/x/net/publicsuffix
+golang.org/x/text
+gopkg.in/redis.v3

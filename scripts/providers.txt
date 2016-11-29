@@ -1,0 +1,97 @@
+9gag.com, 9GAG
+abcnews.com.co, ABC News
+abcnews.go.com, ABC News
+adage.com, AdAge
+answers.yahoo.com, Yahoo Answers
+autoweek.com, Autoweek
+bb4sp.com, BB4SP
+blog.dilbert.com, Scott Adam's Blog
+blogs.findlaw.com, findlaw
+blogs.sas.com, SAS blog
+blogs.wgbh.org, WGBH blog
+blogs.wsj.com, WSJ blog
+blogs.yahoo.co.jp, Yahoo Japan Blogs
+br.wsj.com, WSJ
+br.noticias.yahoo.com, Yahoo Brazil News
+bylines.news.yahoo.co.jp, Yahoo Japan News
+breakingnewsi.com, breakingnewsi
+business.lesechos.fr, Les Echos Business
+ca.finance.yahoo.com, Yahoo Finance Canada
+ca.news.yahoo.com, Yahoo Canada News
+cleantechnica.com, CleanTechnica
+community.hpe.com, Hewlett Packard Enterprise Community
+dailycaller.com, The Daily Caller
+DailySunKnoxville.com, dailysunknoxville
+de.finance.yahoo.com, Yahoo Finanzen Deutschland
+developer.ibm.com, Bluemix Blog
+docs.google.com, Google Docs
+documents.latimes.com, LA Times
+dupress.com, Dupress
+edition.cnn.com, CNN
+eedition2.latimes.com, LA Times
+espn.go.com, ESPN
+fasttechreviews.cu.cc, Fasttechreviews
+finance.yahoo.com, Yahoo Finance
+finans.dk, Finans
+fortune.com, Fortune
+fox8.com, Fox8
+fr.euronews.com, Euronews
+futurezone.at, Futurezone
+globalnews.ca, Globalnews
+gma.yahoo.com, Yahoo
+go.cnn.com, CNNgo
+gulfnews.com, GulfNews
+heavy.com, Heavy.com
+japan.cnet.com, Cnet Japan
+lasvegassun.com, Las Vegas Sun News
+m.washingtontimes.com, Washington Times
+microgridknowledge.com, Microgrid Knowledge
+mobile.nytimes.com, The New York Times
+myaccount.nytimes.com, The New York Times
+news.microsoft.com, Microsoft
+news.nationalpost.com, National Post
+nytlive.nytimes.com, The New York Times
+partners.wsj.com, WSJ
+query.nytimes.com, The New York Times
+reason.com, Reason.com
+seekingalpha.com, Seeking Alpha
+sg.finance.yahoo.com, Yahoo Finance Singapore
+sg.finance.yahoo.com, Yahoo Singapore Finance
+siliconangle.com, SiliconAngle
+soundcloud.com, SoundCloud
+spectrum.ieee.org, IEEE Spectrum
+techcrunch.com, TechCrunch
+time.com, Time
+touch.latimes.com, LA Times
+uk.finance.yahoo.com, Yahoo Finance UK
+uk.news.yahoo.com, Yahoo News UK
+will.i.am, WillIAm
+www.ew.com, EW.com
+www.gartner.com, Gartner
+www.hollywoodreporter.com, Hollywood Reporter
+www.imdb.com, IMDB
+www.latimes.com, LA Times
+www.marketwatch.com, MarketWatch
+www.msnbc.com, MSNBC
+www.mtv.com, MTV
+www.nasdaq.com, NASDAQ.com
+www.nydailynews.com, NY Daily News
+www.nytimes.com, The New York Times
+www.opednews.com, OpEdNews
+www.pbs.org, PBS.org
+www.pcmag.com, PCMag.com
+www.pcworld.com, PCWorld
+www.politico.com, Politico
+www.sandiegouniontribune.com, SanDiegoUnionTribune.com
+www.scientificamerican.com, Scientific American
+www.seattlepi.com, Seattle PI
+www.sfgate.com, SFGate
+www.shanghaidaily.com, Shanghai Daily
+www.siliconvalley.com, SiliconValley.com
+www.startribune.com, StarTribune.com
+www.sun-sentinel.com, Sun Sentinel
+www.teslamotors.com, Tesla Motors
+www.theblaze.com, TheBlaze.com
+www.yahoo.com, Yahoo
+amp.twimg.com, Twitter Content
+www.usmagazine.com, Us Weekly
